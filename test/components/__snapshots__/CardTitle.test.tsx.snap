@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShoppingCard with title debe mostrar la tarjeta con el nombre del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    coffee card 1
+  </span>
+</div>
+`;
+
+exports[`card title debe mostrar el titulo de la card correctamente 1`] = `
+<span
+  className="productDescription custom-class"
+>
+  Titulo del producto
+</span>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`card image debe mostrar la imagen 1`] = `
+<img
+  alt="coffee mug"
+  className="productImg undefined"
+  src="../ruta-de-img"
+/>
+`;
+
+exports[`card image dentro de ShoppingCard debe mostrar la imagen 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="coffee mug"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
